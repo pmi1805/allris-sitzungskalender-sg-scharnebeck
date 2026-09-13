@@ -75,6 +75,8 @@ und Home Assistant neu starten.)*
      ALLRIS-Seite veröffentlicht nur die Startzeit, nicht das Ende.
    - **Abfrageintervall (Stunden)**: Standard 24 (1x täglich reicht für einen
      Sitzungskalender in aller Regel aus).
+    ![Einrichtungsdialog](docs/screenshots/setup_selection.png)
+
 4. **Absenden** — es wird eine Kalender-Entity angelegt, z. B.
    `calendar.allris_sitzungen_samtgemeinde_brietlingen_echem`.
 
