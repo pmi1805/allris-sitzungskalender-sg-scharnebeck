@@ -1,10 +1,10 @@
 {
   "domain": "allris_scharnebeck",
   "name": "ALLRIS Sitzungskalender SG Scharnebeck",
-  "codeowners": ["@YOUR_GITHUB_USER"],
+  "codeowners": ["@pmi1805"],
   "config_flow": true,
-  "documentation": "https://github.com/YOUR_GITHUB_USER/allris-sitzungskalender-sg-scharnebeck",
-  "issue_tracker": "https://github.com/YOUR_GITHUB_USER/allris-sitzungskalender-sg-scharnebeck/issues",
+  "documentation": "https://github.com/pmi1805/allris-sitzungskalender-sg-scharnebeck",
+  "issue_tracker": "https://github.com/pmi1805/allris-sitzungskalender-sg-scharnebeck/issues",
   "iot_class": "cloud_polling",
   "requirements": [],
   "version": "1.0.0"
