@@ -1,0 +1,38 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "ALLRIS Sitzungskalender SG Scharnebeck einrichten",
+        "description": "Wähle die Körperschaften (Gemeinden bzw. die Samtgemeinde), deren Sitzungen in einem gemeinsamen Kalender zusammengefasst werden sollen. Mehrfachauswahl ist möglich.",
+        "data": {
+          "places": "Körperschaften",
+          "months_ahead": "Wie viele Monate im Voraus abfragen",
+          "event_duration_minutes": "Angenommene Sitzungsdauer (Minuten)",
+          "update_interval_hours": "Abfrageintervall (Stunden)"
+        }
+      }
+    },
+    "error": {
+      "no_places_selected": "Bitte mindestens eine Körperschaft auswählen."
+    },
+    "abort": {
+      "already_configured": "Für genau diese Kombination an Körperschaften existiert bereits ein Eintrag."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "ALLRIS Sitzungskalender SG Scharnebeck anpassen",
+        "data": {
+          "places": "Körperschaften",
+          "months_ahead": "Wie viele Monate im Voraus abfragen",
+          "event_duration_minutes": "Angenommene Sitzungsdauer (Minuten)",
+          "update_interval_hours": "Abfrageintervall (Stunden)"
+        }
+      }
+    },
+    "error": {
+      "no_places_selected": "Bitte mindestens eine Körperschaft auswählen."
+    }
+  }
+}

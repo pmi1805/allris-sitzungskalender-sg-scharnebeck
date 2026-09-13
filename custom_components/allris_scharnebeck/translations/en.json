@@ -1,0 +1,38 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up ALLRIS Scharnebeck meeting calendar",
+        "description": "Choose the municipalities (or the joint municipality 'Samtgemeinde Scharnebeck') whose council/committee meetings should be combined into one calendar. Multiple selection is possible.",
+        "data": {
+          "places": "Municipalities / bodies",
+          "months_ahead": "How many months ahead to fetch",
+          "event_duration_minutes": "Assumed meeting duration (minutes)",
+          "update_interval_hours": "Poll interval (hours)"
+        }
+      }
+    },
+    "error": {
+      "no_places_selected": "Please select at least one municipality/body."
+    },
+    "abort": {
+      "already_configured": "An entry with exactly this combination of municipalities already exists."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Adjust ALLRIS Scharnebeck meeting calendar",
+        "data": {
+          "places": "Municipalities / bodies",
+          "months_ahead": "How many months ahead to fetch",
+          "event_duration_minutes": "Assumed meeting duration (minutes)",
+          "update_interval_hours": "Poll interval (hours)"
+        }
+      }
+    },
+    "error": {
+      "no_places_selected": "Please select at least one municipality/body."
+    }
+  }
+}
