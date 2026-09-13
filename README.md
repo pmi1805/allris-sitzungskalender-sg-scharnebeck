@@ -50,7 +50,7 @@ daher als **Custom Repository** hinzugefügt:
 2. Oben rechts auf die drei Punkte (**⋮**) klicken → **Benutzerdefinierte
    Repositories** ("Custom repositories").
 3. Repository-URL eintragen:
-   `https://github.com/YOUR_GITHUB_USER/allris-sitzungskalender-sg-scharnebeck`
+   `https://github.com/pmi1805/allris-sitzungskalender-sg-scharnebeck`
    Kategorie: **Integration**.
 4. **Hinzufügen** klicken. Das Repository erscheint jetzt in der HACS-Liste.
 5. In HACS nach **"ALLRIS Sitzungskalender SG Scharnebeck"** suchen und
