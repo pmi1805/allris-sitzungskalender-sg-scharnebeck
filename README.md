@@ -11,8 +11,8 @@ Du wählst bei der Einrichtung aus, welche Körperschaft(en) dich interessieren
 mit Mehrfachauswahl.
 
 > **Hinweis / Disclaimer:** Dieses Projekt steht in keiner Verbindung zur
-> Samtgemeinde Scharnebeck, zum Software-Hersteller von ALLRIS/Sternberg
-> Software oder zu sonstigen offiziellen Stellen. Es handelt sich um ein
+> Samtgemeinde Scharnebeck, zum Software-Hersteller von ALLRIS/CC e-gov GmbH
+> oder zu sonstigen offiziellen Stellen. Es handelt sich um ein
 > privates, community-getragenes Werkzeug, das die öffentlich einsehbare
 > Kalenderseite automatisiert ausliest. Keine Gewähr für Richtigkeit oder
 > Vollständigkeit der Termine — maßgeblich ist immer die offizielle
