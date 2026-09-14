@@ -1,4 +1,4 @@
-# ALLRIS Sitzungskalender SG Scharnebeck (Home Assistant Custom Integration)
+# ALLRIS Sitzungskalender Samtgemeinde Scharnebeck
 
 Diese **inoffizielle** Home-Assistant-Integration liest den öffentlichen
 Sitzungskalender der Samtgemeinde Scharnebeck aus dem ALLRIS-Ratsinformationssystem
